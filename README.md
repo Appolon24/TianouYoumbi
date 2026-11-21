@@ -50,6 +50,23 @@ Formation en cours à travers Microsoft Learn et des travaux pratiques sur Power
 
 Objectif : préparation à la certification Microsoft Certified: Power BI Data Analyst Associate.
 
+### Parcours Microsoft Learn — Power BI Data Analyst
+
+**Certification visée :** Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+
+#### Modules terminés
+
+**21 novembre 2026 — Commencer à créer avec Power BI**
+
+- Plateforme : Microsoft Learn
+- Évaluation : 3/3 bonnes réponses (100 %)
+- Succès numérique : obtenu
+- Compétences étudiées : Power BI Desktop, Power BI Service, Power BI Mobile, modèles sémantiques, visualisations et espaces de travail.
+
+🏅 [Consulter mon succès officiel Microsoft Learn](https://learn.microsoft.com/api/achievements/share/fr-fr/TianouYoumbiCharlotAppolon-5430/J8SPRNXT?sharingId=EA2DC02CE398F6CC)
+
+**Statut :** formation Power BI et préparation PL-300 en cours.
+
 ## Objectifs professionnels
 
 Développer un portfolio de projets concrets en Data Analytics, Business Intelligence, support IT et automatisation, afin de démontrer mes compétences techniques et analytiques.
