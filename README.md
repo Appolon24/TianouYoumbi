@@ -65,6 +65,32 @@ Objectif : préparation à la certification Microsoft Certified: Power BI Data A
 
 🏅 [Consulter mon succès officiel Microsoft Learn](https://learn.microsoft.com/api/achievements/share/fr-fr/TianouYoumbiCharlotAppolon-5430/J8SPRNXT?sharingId=EA2DC02CE398F6CC)
 
+## 📊 Parcours Microsoft Power BI — Préparation PL-300
+
+### ✅ Modules Microsoft Learn terminés
+
+- **Commencer à créer avec Power BI** — Terminé
+- **Obtenir des données dans Power BI** — Terminé le 26/11/2026  
+  [🏅 Consulter ma réussite Microsoft Learn](https://learn.microsoft.com/api/achievements/share/fr-fr/TianouYoumbiCharlotAppolon-5430/UZ8EAXR3?sharingId=EA2DC02CE398F6CC)
+
+### 🛠️ Laboratoire pratique — Get Data in Power BI
+
+**Environnement :** Power BI Desktop, SQL Server, Power Query.
+
+Travaux réalisés :
+- Connexion à la base SQL Server `AdventureWorksDW2020`.
+- Exploration de six tables relationnelles.
+- Analyse de la qualité, de la distribution et du profil des colonnes.
+- Identification des valeurs manquantes et des incohérences métier.
+- Importation de deux fichiers CSV.
+
+**Compétences développées :** acquisition de données, connexion SQL Server, profilage, préparation des données et diagnostic de leur qualité.
+
+### 🎯 Objectif professionnel
+
+Préparation à la certification **Microsoft Certified: Power BI Data Analyst Associate (PL-300)**.
+
+*Formation en cours — certification non encore obtenue.*
 **Statut :** formation Power BI et préparation PL-300 en cours.
 
 ## Objectifs professionnels
